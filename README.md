@@ -3,7 +3,7 @@
 ---
 
 ## Su di me
-Ho un percorso ibrido che fonde un **Diploma IT**, una **Laurea Magistrale in Orientalistica** e un **Master in Cybersecurity**.[cite: 3] Questa combinazione mi permette di affrontare i problemi tecnici con una forte capacità di ascolto e una metodologia di indagine rigorosa.
+Ho un percorso ibrido che fonde un **Diploma IT**, una **Laurea Magistrale in Orientalistica** e un **Master in Cybersecurity**. Questa combinazione mi permette di affrontare i problemi tecnici con una forte capacità di ascolto e una metodologia di indagine rigorosa.
 
 - 🛡️ **Cybersecurity Enthusiast**: Focalizzato sulla sicurezza delle infrastrutture e dei container.
 - 🎓 **Master in Cybersecurity**: Recentemente diplomato presso l'Università di Pisa.
@@ -25,7 +25,7 @@ Ho un percorso ibrido che fonde un **Diploma IT**, una **Laurea Magistrale in Or
 ### [Analisi comparativa Docker vs Podman]([link-alla-tua-repository](https://github.com/tarantaino/Project-Work-Accademico---Analisi-comparativa-delle-vulnerabilit-di-Docker-e-Podman))
 Il mio Project Work accademico focalizzato sulle vulnerabilità, i privilegi di root e i meccanismi di isolamento negli ambienti containerizzati.
 
-### [Python Client-Server Chat](https://github.com/tarantaino/Client-Server-Chat-Project))
+### [Python Client-Server Chat](https://github.com/tarantaino/Client-Server-Chat-Project)
 Sviluppo di un'applicazione di messaggistica asincrona basata su socket **TCP/UDP** in Python.
 
 ### [Sewcure System Configuration](https://github.com/tarantaino/Secure-System-Configuration-and-Device-Hardening---Project)
